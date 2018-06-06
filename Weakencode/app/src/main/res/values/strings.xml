@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wekencode</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="create">CreateDot</string>
+</resources>

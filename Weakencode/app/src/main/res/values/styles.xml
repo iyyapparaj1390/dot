@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorControlNormal">@color/gold</item>
+        <item name="colorControlActivated">@color/gold</item>
+        <item name="colorControlHighlight">@color/gold</item>
+        <item name="android:textColorHint">@color/gold</item>
+
+    </style>
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColorHint">#ffffff</item>
+
+
+    </style>
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/gold</item>
+        <item name="android:textColorHint">@color/gold</item>
+        <item name="android:textSize">12sp</item>
+
+
+
+    </style>
+    <style name="TextAppearance.App.TextInputLayout1" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textColorHint">@color/blue</item>
+        <item name="android:textSize">14sp</item>
+
+
+
+    </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+
+</resources>
